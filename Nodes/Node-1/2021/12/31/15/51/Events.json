@@ -1,0 +1,16 @@
+[
+    {
+        "eventId": "bc6f5397-9e43-44a4-8bcf-4c90c5677b48",
+        "eventType": 17,
+        "emitterUserProfileId": "9098f5b1-df84-463c-adf8-227b3c51dbba",
+        "emitterPostHash": "06f842158d2afadb37ad71efd34e7e47d64d07e67d03bcd3ba63d127e89bcf20",
+        "timestamp": 1640965872345
+    },
+    {
+        "eventId": "f0f1a366-8e57-4ec0-807d-f5138b77700e",
+        "eventType": 17,
+        "emitterUserProfileId": "9098f5b1-df84-463c-adf8-227b3c51dbba",
+        "emitterPostHash": "06f842158d2afadb37ad71efd34e7e47d64d07e67d03bcd3ba63d127e89bcf20",
+        "timestamp": 1640965902304
+    }
+]
